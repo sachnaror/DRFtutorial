@@ -46,9 +46,7 @@ Believe me, the security provided by DRF is well established. Django REST Framew
 
 Well, I can say that DRF is an amazing extension to Django. Django is capable on its own but DRF takes that one step ahead. Django’s rapid development is boosted by the use of DRF. Django Rest Framework has more features like Requests and response methods.
 
-There is so much DRF is capable of and the same goes for all readers. DRF will let you communicate with various applications over the internet. The most prominent Django REST Framework examples are of Android Applications and Web apps. You will only have different UI/ UX. The backend will be Django.
-
-API communication is handled by Django REST Framework. That’s how you can do full-stack development.
+That’s how you can do full-stack development.
 
 Connect with me @ schnaror@gmail.com
 
