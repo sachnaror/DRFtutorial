@@ -51,7 +51,4 @@ There is so much DRF is capable of and the same goes for all readers. DRF will l
 API communication is handled by Django REST Framework. That’s how you can do full-stack development.
 
 Connect with me @ schnaror@gmail.com
-# Django-REST-API
-# Django-REST-API
-# Django-REST-API
-# Django-REST-API
+
