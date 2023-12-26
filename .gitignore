@@ -1,0 +1,14 @@
+README.MD
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+
+*.cfg
+
+__pycache__/
+.vscode/
+.venv/
+.venv
+venv/
+*.pyc
