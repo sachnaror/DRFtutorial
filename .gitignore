@@ -1,4 +1,4 @@
-README.MD
+
 # ignore ALL .log files
 *.log
 
@@ -10,5 +10,6 @@ __pycache__/
 .vscode/
 .venv/
 .venv
+*.venv
 venv/
 *.pyc
