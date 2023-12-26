@@ -50,3 +50,10 @@ That’s how you can do full-stack development.
 
 Connect with me @ schnaror@gmail.com
 
+
+![1](https://github.com/sachnaror/DRFtutorial/assets/9551754/e2c44059-f8c6-4903-a255-66fd99a284ca)
+
+
+.
+
+![2](https://github.com/sachnaror/DRFtutorial/assets/9551754/5a76fdfe-8290-4512-bc71-4fee2e6d1e72)
